@@ -1,5 +1,7 @@
 # Aryan Walia - Portfolio
 
+🔗 **Live:** [aryan-portfolio-eight-omega.vercel.app](https://aryan-portfolio-eight-omega.vercel.app)
+
 Personal portfolio website built with React, TypeScript, and Vite.
 
 ## Run Locally
@@ -8,5 +10,3 @@ Personal portfolio website built with React, TypeScript, and Vite.
 npm install
 npm run dev
 ```
-
-Opens at http://localhost:5173

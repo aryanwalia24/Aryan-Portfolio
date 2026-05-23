@@ -6,7 +6,7 @@ export const personalInfo: PersonalInfo = {
   email: "aryanwalia2303@gmail.com",
   phone: "",
   links: {
-    portfolio: "#",
+    portfolio: "https://aryan-portfolio-eight-omega.vercel.app",
     linkedin: "https://www.linkedin.com/in/aryan-walia24",
     github: "https://github.com/aryanwalia24"
   }
