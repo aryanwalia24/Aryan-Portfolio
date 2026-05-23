@@ -2,7 +2,6 @@ export interface PersonalInfo {
   name: string;
   title: string;
   email: string;
-  phone: string;
   links: {
     portfolio: string;
     linkedin: string;
@@ -19,10 +18,9 @@ export interface Experience {
 }
 
 export interface Project {
-  name:string;
+  name: string;
   period: string;
   link?: string;
-  demoLink?: string;
   description: string;
   tech: string[];
 }
@@ -35,12 +33,12 @@ export interface Education {
 }
 
 export interface SkillCategory {
-    category: string;
-    items: string[];
+  category: string;
+  items: string[];
 }
 
 export interface CodingProfile {
-    name: string;
-    handle: string;
-    link: string;
+  name: string;
+  handle: string;
+  link: string;
 }
